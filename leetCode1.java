@@ -8,10 +8,6 @@
 // Ex 3
 // Input: 120
 // Output: 21
-//
-
-import java.util.Stack;
-
 
 public class leetCode1
 {
