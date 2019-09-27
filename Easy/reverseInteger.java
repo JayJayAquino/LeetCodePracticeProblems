@@ -9,7 +9,7 @@
 // Input: 120
 // Output: 21
 
-public class leetCode1
+public class reverseInteger
 {
   public static void main(String [] args)
   {

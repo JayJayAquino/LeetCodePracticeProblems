@@ -17,7 +17,7 @@
 
 import java.util.HashMap;
 
-public class leetCode2
+public class jewelsAndStones
 {
   public static void main(String [] args)
   {
